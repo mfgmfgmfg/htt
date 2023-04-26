@@ -1,0 +1,256 @@
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/image-inside-128-dark.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\image-inside-128-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/image-inside-64-dark.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\image-inside-64-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e6fa1987df62bf405e611-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\scripts-compressed\cldr-resource-pack-e6fa1987df62bf405e611-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-a5b526ac93a6931cc0f2a-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\scripts-compressed\common-a5b526ac93a6931cc0f2a-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-7f1e337eaa22c7c07dcb1-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\scripts-compressed\common-vendors-7f1e337eaa22c7c07dcb1-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\scripts-compressed\common-vendors-stable-dade9d616ff90ebf99b1d-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\scripts-compressed\extract-css-moment-js-vendor-5082e2dab696b020ac83a-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0843768cfa37f0c0adc46-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\scripts-compressed\extract-css-runtime-0843768cfa37f0c0adc46-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-05b8f9f40d9f539050c2a-min.en-US.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\universal\scripts-compressed\performance-05b8f9f40d9f539050c2a-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Abel:wght@400&family=Oswald:wght@300&family=Source+Code+Pro:wght@300;400;500;700
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/abel/v18/MwQ5bhbm2POE6Vg.ttf
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\s\abel\v18\MwQ5bhbm2POE6Vg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXhM4.ttf
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DCuXhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DJKQhM4.ttf
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DJKQhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4.ttf
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQhM4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcecodepro/v22/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DP6QhM4.ttf
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\s\sourcecodepro\v22\HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DP6QhM4.ttf
+Content Type: font/ttf
+
+Uri: https://images.squarespace-cdn.com/
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\index-1.htm
+Content Type: 
+
+Uri: https://images.squarespace-cdn.com/content/5920851c29687fe45e68b63e/1495562315510-ZBWPRMPW115PNHFNR85L/AH+icon+logo.jpg?content-type=image%2Fjpeg
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\content\5920851c29687fe45e68b63e\1495562315510-ZBWPRMPW115PNHFNR85L\AH icon logo.jpg
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/5920851c29687fe45e68b63e/1577917735975-T6056EQCO2DF9EA3P7VF/Big+Juice2020+Web5.png?format=1500w&content-type=image%2Fjpeg
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\content\5920851c29687fe45e68b63e\1577917735975-T6056EQCO2DF9EA3P7VF\Big Juice2020 Web5.png
+Content Type: image/jpeg
+
+Uri: https://images.squarespace-cdn.com/content/v1/5920851c29687fe45e68b63e/1495436595849-7H428MOR6Z6SMK9I6XIB/image-asset.png
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\content\v1\5920851c29687fe45e68b63e\1495436595849-7H428MOR6Z6SMK9I6XIB\image-asset.png
+Content Type: image/png
+
+Uri: https://images.squarespace-cdn.com/content/v1/5920851c29687fe45e68b63e/1495562440541-XSOUTVU5FQMS136LZKJT/favicon.ico?format=100w
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\content\v1\5920851c29687fe45e68b63e\1495562440541-XSOUTVU5FQMS136LZKJT\favicon.ico
+Content Type: image/jpeg
+
+Uri: https://static1.squarespace.com/static/sitecss/5920851c29687fe45e68b63e/44/52e96934e4b0ea14d0f64568/5920851c29687fe45e68b645/1128/site.css
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\static\sitecss\5920851c29687fe45e68b63e\44\52e96934e4b0ea14d0f64568\5920851c29687fe45e68b645\1128\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1128/scripts/site-bundle.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\static\ta\52e968b5e4b04d2aa2a3bba3\1128\scripts\site-bundle.js
+Content Type: application/javascript
+
+Uri: https://use.typekit.net/ik/NiKitI0tL5Ha3hW-wZMCk-RWh9vduSGx5fpZljMQukvfezXgfFHN4UJLFRbh52jhWD9owRMtFQBRwRqh52icZQbuZQjtjRjDZs7aMPG0jAU8peB0ZemkOAyTieFGZAoDOQSo5eI0SaBujW48Sagyjh90jhNlOeBCZWyydcs8SKuG-WsR-em0SkXa5QyyO1FUiABkZWF3jAF8OcFzdPUydemtjAoqZW4G-WsR-em0SkoRdhXCdeNRjAUGdaFXOYiaikoydemtjAoqZWJl-e8Xjhy8d1wlFDqtjPoDSWmyScmDSeBRZPoRdhXCiaiaOcBCZWyydcs8ScyTieFGZAoDOcFzdPJ4jA4zde8X-AN0H6GJ1w9gIMMjgfMfqMYg1Gx4gb.js
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\ik\NiKitI0tL5Ha3hW-wZMCk-RWh9vduSGx5fpZljMQukvfezXgfFHN4UJLFRbh52jhWD9owRMtFQBRwRqh52icZQbuZQjtjRjDZs7aMPG0jAU8peB0ZemkOAyTieFGZAoDOQSo5eI0SaBujW48Sagyjh90jhNlOeBCZWyydcs8SKuG-WsR-em0SkXa5QyyO1FUiABkZWF3jA.js
+Content Type: text/javascript
+
+Uri: https://www.alexanderhitchens.com/
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\index.htm
+Content Type: text/html
+
+Uri: https://www.alexanderhitchens.com/contact
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\contact.html
+Content Type: text/html
+
+Uri: https://www.alexanderhitchens.com/welcome?format=rss
+File Name: C:\Downloaded Web Sites\www.alexanderhitchens.com\welcome
+Content Type: application/rss+xml
+
